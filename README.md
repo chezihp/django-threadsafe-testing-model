@@ -1,0 +1,1 @@
+# django-threadsafe-testing-model
